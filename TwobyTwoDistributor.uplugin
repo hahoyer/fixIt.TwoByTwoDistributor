@@ -1,0 +1,26 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0.0",
+	"SemVersion": "1.0.0",
+	"FriendlyName": "2 by 2 Conveyor distributor",
+	"Description": "Provides a conveyor distributor with two inputs and two outputs. Both sites can be prioritized. For one output a filter can be set.",
+	"Category": "Modding",
+	"CreatedBy": "hahoyer",
+	"CanContainContent": true,
+	"IsBetaVersion": true,
+	"IsExperimentalVersion": true,
+	"Installed": false,
+	"Plugins": [
+		{
+			"Name": "SML",
+			"Enabled": true,
+			"SemVersion": "^3.3.2"
+		},
+		{
+			"Name": "ContentLib",
+			"Enabled": true,
+			"SemVersion": "^1.0.0"
+		}
+	]
+}
