@@ -2,6 +2,6 @@
 {
     "$schema": "https://raw.githubusercontent.com/budak7273/ContentLib_Documentation/main/JsonSchemas/CL_Schematic.json",
     "Recipes": [
-        "Recipe_TwoByTwoDistributor"
+        "Recipe_TwoByTwo"
     ]
 }
